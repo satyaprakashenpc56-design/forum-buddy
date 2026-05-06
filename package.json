@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "description": "Python Telegram bot — see README.md. This package.json is a stub kept only to satisfy the Lovable build environment.",
   "scripts": {
-    "build": "echo 'Python project — nothing to build.'"
+    "dev": "echo 'Python project — run: python main.py' && sleep infinity",
+    "build": "echo 'Python project — nothing to build.'",
+    "start": "echo 'Python project — run: python main.py'"
   }
 }
