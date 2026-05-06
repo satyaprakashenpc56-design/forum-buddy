@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "node placeholder-server.js",
     "build": "echo 'Python project — nothing to build.'",
+    "build:dev": "echo 'Python project — nothing to build.'",
     "start": "node placeholder-server.js"
   }
 }
