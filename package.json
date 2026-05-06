@@ -1,0 +1,9 @@
+{
+  "name": "jee-forum-bot",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Python Telegram bot — see README.md. This package.json is a stub kept only to satisfy the Lovable build environment.",
+  "scripts": {
+    "build": "echo 'Python project — nothing to build.'"
+  }
+}
