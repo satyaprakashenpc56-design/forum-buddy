@@ -2,10 +2,10 @@
   "name": "jee-forum-bot",
   "private": true,
   "version": "1.0.0",
-  "description": "Python Telegram bot — see README.md. This package.json is a stub kept only to satisfy the Lovable build environment.",
+  "description": "Python Telegram bot — see README.md. The dev script just keeps a placeholder HTTP server alive so the Lovable preview pane has something to load; the real bot is run with `python main.py`.",
   "scripts": {
-    "dev": "echo 'Python project — run: python main.py' && sleep infinity",
+    "dev": "node placeholder-server.js",
     "build": "echo 'Python project — nothing to build.'",
-    "start": "echo 'Python project — run: python main.py'"
+    "start": "node placeholder-server.js"
   }
 }
